@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-gradient-to-br from-[#f0e6ff] via-[#e5deff] to-accent/20 min-h-screen text-foreground font-['Inter'] antialiased;
+    background-attachment: fixed;
+  }
+
+  .glass-primary {
+    @apply bg-white/80 border border-white/20 shadow-lg hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .glass-secondary {
+    @apply bg-secondary/80 border border-secondary/20 shadow-lg hover:shadow-xl transition-shadow duration-300;
+  }
+
+  .section {
+    @apply py-20 px-6 md:px-12 max-w-7xl mx-auto;
+  }
+
+  .heading {
+    @apply text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent;
+  }
+
+  .subheading {
+    @apply text-lg md:text-xl text-muted mb-12 leading-relaxed;
+  }
+}
