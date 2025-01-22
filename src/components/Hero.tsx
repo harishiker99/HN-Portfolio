@@ -21,7 +21,7 @@ const Hero = () => {
           initial={{ y: 20, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}
-          className="heading text-3xl md:text-4xl lg:text-5xl"
+          className="heading text-3xl md:text-4xl lg:text-5xl text-violet-900" // Added text-violet-900
         >
           Harish Nair
         </motion.h1>

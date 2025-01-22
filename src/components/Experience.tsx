@@ -35,8 +35,8 @@ const experiences: ExperienceItem[] = [
   {
     title: "Senior Analyst",
     company: "Capgemini",
-    period: "April 2023-August 2023",
-    location: "Mumbai, India",
+    period: "March 2023-August 2023",
+    location: "Mumbai, Maharashtra, India",
     description: [
       "Enhanced software efficiency by 20% through SQL scripting improvements and agile issue resolution across Canada and APAC, ensuring SLA compliance, KPI reporting, and successful go-live support."
     ],
@@ -45,8 +45,8 @@ const experiences: ExperienceItem[] = [
   {
     title: "Analyst",
     company: "Capgemini",
-    period: "August 2021-January 2023",
-    location: "Mumbai, India",
+    period: "August 2021-February 2023",
+    location: "Mumbai, Maharashtra, India",
     description: [
       "Developed and maintained SQL scripts for data analysis and reporting, supporting business operations across multiple regions.",
       "Monitored middleware event logs in SAP MII, performed forecasting using ETL tools like Tableau, Power BI and Excel, and managed PCo modules across XML back-end systems in SOAP whilst streamlining SAP Process Integration by optimizing message distribution, creating packages, maintaining tables, scripting in SQL with HANA, and building forms with Adobe LiveCycle Designer, visualizing data using CDS views."
