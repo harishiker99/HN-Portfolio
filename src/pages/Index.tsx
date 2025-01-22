@@ -24,7 +24,7 @@ const Index = () => {
   const phrases = [
     "Data Scientist.",
     "ML Engineer.",
-    "Jedi like my father before me..",
+    "Jedi, like my father before me.",
   ];
   
   const animatedText = useTypingAnimation(phrases);
