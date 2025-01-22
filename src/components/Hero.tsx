@@ -43,7 +43,7 @@ const Hero = () => {
           <motion.a
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.95 }}
-            href="https://github.com/harishker99"
+            href="https://github.com/harishiker99"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-secondary transition-colors flex items-center gap-2"
