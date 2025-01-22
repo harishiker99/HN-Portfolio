@@ -12,7 +12,7 @@ interface EducationItem {
 
 const educationData: EducationItem[] = [
   {
-    degree: "Master of Engineering in Applied Data Science",
+    degree: "Master's in Applied Data Science",
     institution: "University of Ottawa",
     period: "September 2023 - April 2025",
     location: "Ottawa, Ontario, Canada",
@@ -23,10 +23,10 @@ const educationData: EducationItem[] = [
     logo: "/uploads/e2e12a6f-5ab4-42ae-abfd-808a78c9b44c.png"
   },
   {
-    degree: "Bachelor of Engineering in Computer Engineering",
+    degree: "Bachelor's in Computer Engineering",
     institution: "University of Mumbai",
     period: "August 2017 - June 2021",
-    location: "Mumbai, Maharashtra, India",
+    location: "Mumbai, India",
     details: [
       "Relevant Coursework: Data Structures, Advanced Algorithms, Machine Learning, Database Management, Artificial Intelligence, Operating Systems, Computer Networks, Big Data Analytics, Computer Graphics, Web Design, Data warehouse and mining",
       "Publications: Multi-agent driving simulation game based on Reinforcement learning published in International Journal for Research in Applied Science & Engineering Technology (IJRASET) in May, 2021"

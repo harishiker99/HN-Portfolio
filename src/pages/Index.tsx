@@ -35,7 +35,7 @@ const Index = () => {
           initial="initial"
           animate="animate"
           variants={stagger}
-          className="min-h-screen mt-[-20vh]" // Adjust this value as needed
+          className="min-h-screen mt-[-15vh]" // Adjust this value as needed
         >
           <motion.div variants={fadeInUp}>
             <Hero />
@@ -46,7 +46,7 @@ const Index = () => {
                 transition={{ duration: 0.8, ease: "easeOut" }}
                 className="space-y-8 mt-[-5vh]"
               >
-                <h1 className="text-3xl md:text-5xl font-bold tracking-tight text-violet-900 dark:text-violet-50">
+                <h1 className="text-5xl md:text-4xl font-mono font-black tracking-tight text-violet-900 dark:text-violet-50">
                   <span className="inline-block min-h-[1.5em]">
                     I am a {animatedText}
                     <span className="animate-pulse">|</span>

@@ -31,8 +31,7 @@ const Hero = () => {
           transition={{ delay: 0.3, duration: 0.5 }}
           className="subheading text-base md:text-lg lg:text-xl max-w-2xl mx-auto px-4"
         >
-          AI Engineer at the National Research Council Canada, specializing in digital transformation 
-          and innovation in applied data science.
+          AI Engineer at the National Research Council Canada, R&D at uOttawa, KaggleX Fellow 2024, Ex-Sr. Analyst at Capgemini
         </motion.p>
         <motion.div 
           initial={{ y: 20, opacity: 0 }}
