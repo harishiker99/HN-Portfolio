@@ -28,8 +28,7 @@ const educationData: EducationItem[] = [
     period: "August 2017 - June 2021",
     location: "Mumbai, Maharashtra, India",
     details: [
-      "Coursework: Data Structures, Algorithms, Machine Learning, Database Management",
-      "Relevant Coursework: Advanced Algorithms, Artificial Intelligence, Operating Systems, Computer Networks, Big Data Analytics, Computer Graphics, Web Design, Data warehouse and mining",
+      "Relevant Coursework: Data Structures, Advanced Algorithms, Machine Learning, Database Management, Artificial Intelligence, Operating Systems, Computer Networks, Big Data Analytics, Computer Graphics, Web Design, Data warehouse and mining",
       "Publications: Multi-agent driving simulation game based on Reinforcement learning published in International Journal for Research in Applied Science & Engineering Technology (IJRASET) in May, 2021"
     ],
     logo: "/uploads/9648c709-134c-4a8d-b93c-7a31c4320772.png"
