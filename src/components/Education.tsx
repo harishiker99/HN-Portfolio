@@ -25,7 +25,7 @@ const educationData: EducationItem[] = [
   {
     degree: "Bachelor of Engineering in Computer Engineering",
     institution: "University of Mumbai",
-    period: "August 2018 - June 2022",
+    period: "August 2017 - June 2021",
     location: "Mumbai, Maharashtra, India",
     details: [
       "Coursework: Data Structures, Algorithms, Machine Learning, Database Management",
